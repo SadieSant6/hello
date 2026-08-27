@@ -8,6 +8,7 @@ int main(int argc, char **argv) {
 
   printf("Hello World!\n");
   printf("Major is Computer Science!\n");
+  printf("Minor is Japanese!\n");
 
   return 0;
 }
