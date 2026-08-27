@@ -1,13 +1,14 @@
 /**
  * Basic Hello World Program
  */
-#include <stdlib.h>
 #include <stdio.h>
+#include <stdlib.h>
 
 int main(int argc, char **argv) {
 
   printf("Hello World!\n");
-  printf("Major is Computer Science!\n");
+  printf("Hello, I'm Brian Ortega!\n");
+  printf("Our majors are Computer Science!\n");
   printf("Minor is Japanese!\n");
 
   return 0;
